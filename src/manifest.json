@@ -1,0 +1,13 @@
+{
+  "name": "bookmarks-crx",
+  "description": "bookmarks Chrome extension",
+  "version": "1.0.0",
+  "icons": {},
+  "action": {
+    "default_popup": "../popup.html"
+  },
+  "permissions": [
+    "bookmarks"
+  ],
+  "manifest_version": 3
+}
